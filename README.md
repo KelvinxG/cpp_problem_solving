@@ -4,5 +4,6 @@ proble solving using c++ from codechef
 
 problem statement 1 : https://www.codechef.com/problems/AGELIMIT?tab=statement
 
+problem statement 2 : https://www.codechef.com/problems/SQUATS
 
 author: kelvinxG
