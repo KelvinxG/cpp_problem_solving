@@ -10,5 +10,6 @@ problem statement 3 : https://www.codechef.com/problems/WATERCONS
 
 problem statement 4 : https://www.codechef.com/problems/BIRYANI
 
+problem statement 5 : https://www.codechef.com/problems/FIT
 
 author: kelvinxG
