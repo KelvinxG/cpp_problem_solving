@@ -6,4 +6,9 @@ problem statement 1 : https://www.codechef.com/problems/AGELIMIT?tab=statement
 
 problem statement 2 : https://www.codechef.com/problems/SQUATS
 
+problem statement 3 : https://www.codechef.com/problems/WATERCONS
+
+problem statement 4 : https://www.codechef.com/problems/BIRYANI
+
+
 author: kelvinxG
